@@ -10,7 +10,6 @@ import {
 import {
   DashboardPage,
   GroupPage,
-  LoginPage,
 } from './pages';
 
 export default function Routes() {
